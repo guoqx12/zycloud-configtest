@@ -2,7 +2,7 @@
   application:
     name: zycloud-provider
   profiles:
-    include: druid #引入数据源application-druid.yml文件
+    #include: druid #引入数据源application-druid.yml文件
     active:
     - dev
 mybatis:
